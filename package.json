@@ -1,0 +1,21 @@
+{
+  "name": "sensing-mills",
+  "version": "1.0.0",
+  "description": "Pulling Data for Purple Air Sensors",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [
+    "mills",
+    "sensor",
+    "purple",
+    "air"
+  ],
+  "author": "rsaur",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "momentjs": "^2.0.0"
+  }
+}
